@@ -1,0 +1,36 @@
+Competitor Report
+=================
+
+Name                 Level           Age        Country    Overall Score Scores
+John Doe             AMATEUR         25         USA        7          [8, 9, 7, 6, 8]
+Jane Smith           PROFESSIONAL    30         UK         8          [7, 8, 7, 7, 7]
+James Johnson        AMATEUR         20         CANADA     6          [6, 6, 6, 6, 6]
+Jennifer Williams    AMATEUR         28         AUSTRALIA  8          [9, 9, 9, 8, 9]
+Patricia Brown       PROFESSIONAL    32         GERMANY    8          [8, 7, 8, 7, 8]
+
+=================
+End of Report
+
+{6=6, 7=7, 8=7, 9=5}
+Highest Scoring Competitor is Competitor number 102, name Jane Smith, country UK.
+Jane Smith is a PROFESSIONAL aged 30 and received these scores: 7,8,7,7,7.
+This gives him an overall score of 8.
+
+-----------------------------------
+Average Overall Score: 7.40
+
+Competitor number 101, name John Doe, country USA.
+John Doe is a AMATEUR aged 25 and received these scores: 8,9,7,6,8.
+This gives him an overall score of 7.
+Competitor number 102, name Jane Smith, country UK.
+Jane Smith is a PROFESSIONAL aged 30 and received these scores: 7,8,7,7,7.
+This gives him an overall score of 8.
+Competitor number 103, name James Johnson, country CANADA.
+James Johnson is a AMATEUR aged 20 and received these scores: 6,6,6,6,6.
+This gives him an overall score of 6.
+Competitor number 104, name Jennifer Williams, country AUSTRALIA.
+Jennifer Williams is a AMATEUR aged 28 and received these scores: 9,9,9,8,9.
+This gives him an overall score of 8.
+Competitor number 105, name Patricia Brown, country GERMANY.
+Patricia Brown is a PROFESSIONAL aged 32 and received these scores: 8,7,8,7,8.
+This gives him an overall score of 8.
